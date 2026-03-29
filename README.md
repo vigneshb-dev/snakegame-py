@@ -37,8 +37,6 @@ A classic Snake game built with Python's `turtle` graphics library — fully pla
 |-----|--------|
 | `←` Left Arrow | Turn Left |
 | `→` Right Arrow | Turn Right |
-| `↑` Up Arrow | Turn Up |
-| `↓` Down Arrow | Turn Down |
 
 ---
 
@@ -63,7 +61,7 @@ python snake.py
 ```
 snake-game/
 │
-├── snake.py       # Main game file
+├── snakegame.py       # Main game file
 └── README.md      # Project documentation
 ```
 
