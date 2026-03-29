@@ -49,7 +49,7 @@ A classic Snake game built with Python's `turtle` graphics library — fully pla
 ### Run the Game
 
 ```bash
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com/vigneshb-dev/snake-game.git
 cd snake-game
 python snake.py
 ```
